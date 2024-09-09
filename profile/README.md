@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Webix is a start-up specialising in application development, software, IT security and solution integration.
+KakDev is a start-up specialising in application development, software, IT security and solution integration.
 <!--
 
 **Here are some ideas to get you started:**
